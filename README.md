@@ -5,11 +5,11 @@ NBA Statistics between 1984-2019 observed and visualized using multiple tools in
 
 ## Machine Learning - Seaborn Language
 ### Heat Maps
-Michael Jordan
+#### Michael Jordan
 
 ![](Machine_Learning/Images/mj_heat_map.png)
 
-NBA
+#### NBA
 
 ![](Machine_Learning/Images/nba_heat_map.png)
 
