@@ -18,7 +18,7 @@ These grids illustrate the correlation of on-court actions by player position.  
 #### Offensive Rebounds vs 3-Point Shots
 ![](Machine_Learning/Images/OREBvs3PM.png)
 #### Steals vs Assist
-![](Machine_Learning/Images/mj_heat_map.png)
+![](Machine_Learning/Images/STLvsAST.png)
 ## JavaScript-HTML
 Utilized Plotly to build an adjustable, dual-axis, grouped Line & Bar Graph to compare seasonal totals of player Steals, Rebounds, Assists and Points in comparison to annual salary between 1990 - 2020.  
 http://localhost:8000
