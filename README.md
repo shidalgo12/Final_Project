@@ -12,7 +12,12 @@ This shows that Michael Jordan took more frequent personal action of making fiel
 #### NBA
 ![](Machine_Learning/Images/nba_heat_map.png)
 ### SEABORN SCATTERED FACETGRID
-These grids illustrate the correlation of on-court actions by player position.  This shows that Guards have taken more action making field goals. Centers have dominated blocking shots while highly contributing to field goals as well. Guards drive a greater number of Assists when stealing the ball.  Forwards land in between each comparison.
+These grids illustrate the correlation of on-court actions by player position.  
+1) This shows that Guards have taken more action making field goals vs. blocking attempted shots. 
+2) Centers have dominated blocking shots while highly contributing to field goals as well. 
+3) Centers make numerous offensive rebounds that often do not turn into 3-Pointers.
+4) Guards drive a greater number of Assists when stealing the ball.  
+5) Forwards land in between each comparison.
 #### Field Goals Made vs. Blocks
 ![](Machine_Learning/Images/FGMvsBLK.png)
 #### Offensive Rebounds vs 3-Point Shots
