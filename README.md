@@ -3,9 +3,9 @@
 ## Background
 NBA Statistics between 1984-2019 observed and visualized using multiple tools/languages including Python, Seaborn, Javascript, HTML, JSON
 ## Machine Learning
-Seaborn coding used to build heat maps illustrating the correlation between Offensive Rebounds(OREB), Field Goals(FGM) and Assists(AST).
-This shows that Michael Jordan took more frequent personal action of making field goals after rebounding the ball  vs the league as a whole.
 ### Seaborn Heatmaps
+Seaborn coding used to build heatmaps illustrating the correlation between Offensive Rebounds(OREB), Field Goals(FGM) and Assists(AST).
+This shows that Michael Jordan took more frequent personal action of making field goals after rebounding the ball  vs the league as a whole.
 #### Michael Jordan
 ![](Machine_Learning/Images/mj_heat_map.png)
 #### NBA
